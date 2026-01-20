@@ -1,15 +1,19 @@
-FRAN
+FRAN:
 gameController
 Sim
 
-MANU 
+MANU:
 Interfaz
 clase Abstracta
 
-FRAN
-Idle 
+FRAN:
+Idle
+
+MANU:
 GoTo
 
-Manu
+FRAN:
 Interactable
+
+MANU:
 Lamp
