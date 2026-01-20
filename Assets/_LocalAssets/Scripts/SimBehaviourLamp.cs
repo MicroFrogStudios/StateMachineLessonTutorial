@@ -24,9 +24,9 @@ public class SimBehaviourLamp : SimBehaviourBase
         {
             lampLight.enabled = true;
         }
+        IsInterrumpible = true;
         timerDuration = 5f;
         StartTimer();
-        sim.changeState(new SimBehaviourRoboTalk("OOOHH  :O", sim));
     }
 
     public override void Update()

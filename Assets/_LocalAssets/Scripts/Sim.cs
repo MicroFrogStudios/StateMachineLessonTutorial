@@ -6,7 +6,6 @@ public class Sim : MonoBehaviour
 
     public float speed = 0.5f;
     public float minDistance = 2f;
-    public GameObject[] walkingPoints;
 
    
 
