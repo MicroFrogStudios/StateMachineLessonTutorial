@@ -16,21 +16,21 @@ MANU:
 TUTORIAL CODIGO
 
 FRAN:
-gameController
+Interfaz
 Sim
 
 MANU:
-Interfaz
+gameController
 clase Abstracta
 
 FRAN:
 Idle
 
 MANU:
-GoTo
-
-FRAN:
 Interactable
 
-MANU:
+FRAN:
 Lamp
+
+MANU:
+GoTo
